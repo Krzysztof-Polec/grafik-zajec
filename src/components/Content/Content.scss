@@ -1,0 +1,32 @@
+main{
+  background-color: #F5F5F5;
+  display: flex;
+  gap: 90px;
+  flex-direction: column;
+  padding: 25px;
+
+  .day{
+    display: flex;
+    align-items: center;
+  
+    h3{
+      min-width: 130px; 
+    }
+  
+    .classes{
+      display: flex;
+      gap: 45px;
+      flex-wrap: wrap;
+      border-left: 2px solid #e4e6eb;
+      padding-left: 10px;
+  
+      &>div{
+        min-width: 150px;
+  
+        p:nth-child(2){
+          font-weight: 500;
+        }
+      }
+    }
+  }
+}

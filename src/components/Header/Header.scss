@@ -1,0 +1,15 @@
+header{
+  padding: 25px;
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+
+  div:nth-child(2){
+    display: flex;
+    gap: 25px;
+    
+    p{
+      cursor: pointer;
+    }
+  }
+}

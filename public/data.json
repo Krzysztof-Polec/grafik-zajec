@@ -1,0 +1,61 @@
+{
+  "planZajec": [
+    {
+      "dzien": "Poniedziałek",
+      "zajecia": [
+        {"godzina": "10:00 - 11:30", "nazwa": "Zajęcia z React", "kategoria": "Technologia"},
+        {"godzina": "13:00 - 14:30", "nazwa": "Warsztaty JavaScript", "kategoria": "Technologia"},
+        {"godzina": "15:00 - 16:30", "nazwa": "Projekt zespołowy", "kategoria": "Projekt"},
+        {"godzina": "17:00 - 18:30", "nazwa": "Komunikacja w zespole", "kategoria": "Komunikacja"}
+      ]
+    },
+    {
+      "dzien": "Wtorek",
+      "zajecia": [
+        {"godzina": "11:00 - 12:30", "nazwa": "HTML i CSS", "kategoria": "Technologia"},
+        {"godzina": "14:00 - 15:30", "nazwa": "Warsztaty CSS", "kategoria": "Stylizacja"},
+        {"godzina": "16:00 - 17:30", "nazwa": "Testowanie oprogramowania", "kategoria": "Testowanie"},
+        {"godzina": "18:00 - 19:30", "nazwa": "Podstawy UX/UI", "kategoria": "Projekt"},
+        {"godzina": "20:00 - 21:30", "nazwa": "Git i kontrola wersji", "kategoria": "Technologia"}
+      ]
+    },
+    {
+      "dzien": "Środa",
+      "zajecia": [
+        {"godzina": "12:00 - 13:30", "nazwa": "Podstawy JavaScript", "kategoria": "Technologia"},
+        {"godzina": "14:00 - 15:30", "nazwa": "React Hooks", "kategoria": "Technologia"},
+        {"godzina": "16:00 - 17:30", "nazwa": "Projekt zespołowy", "kategoria": "Projekt"},
+        {"godzina": "18:00 - 19:30", "nazwa": "Komunikacja w zespole", "kategoria": "Komunikacja"}
+      ]
+    },
+    {
+      "dzien": "Czwartek",
+      "zajecia": [
+        {"godzina": "10:00 - 11:30", "nazwa": "Zajęcia z React", "kategoria": "Technologia"},
+        {"godzina": "13:00 - 14:30", "nazwa": "Warsztaty JavaScript", "kategoria": "Technologia"},
+        {"godzina": "15:00 - 16:30", "nazwa": "Projekt zespołowy", "kategoria": "Projekt"},
+        {"godzina": "17:00 - 18:30", "nazwa": "Komunikacja w zespole", "kategoria": "Komunikacja"},
+        {"godzina": "19:00 - 20:30", "nazwa": "Podstawy UX/UI", "kategoria": "Projekt"},
+        {"godzina": "21:00 - 22:30", "nazwa": "Git i kontrola wersji", "kategoria": "Technologia"}
+      ]
+    },
+    {
+      "dzien": "Piątek",
+      "zajecia": [
+        {"godzina": "9:00 - 10:30", "nazwa": "Komunikacja w zespole", "kategoria": "Komunikacja"},
+        {"godzina": "11:00 - 12:30", "nazwa": "HTML i CSS", "kategoria": "Technologia"},
+        {"godzina": "14:00 - 15:30", "nazwa": "Warsztaty CSS", "kategoria": "Stylizacja"},
+        {"godzina": "16:00 - 17:30", "nazwa": "Testowanie oprogramowania", "kategoria": "Testowanie"},
+        {"godzina": "18:00 - 19:30", "nazwa": "Podstawy UX/UI", "kategoria": "Projekt"}
+      ]
+    },
+    {
+      "dzien": "Sobota",
+      "zajecia": [
+        {"godzina": "13:00 - 14:30", "nazwa": "Testowanie oprogramowania", "kategoria": "Testowanie"},
+        {"godzina": "15:00 - 16:30", "nazwa": "React Hooks", "kategoria": "Technologia"},
+        {"godzina": "17:00 - 18:30", "nazwa": "Projekt zespołowy", "kategoria": "Projekt"}
+      ]
+    }
+  ]
+}
